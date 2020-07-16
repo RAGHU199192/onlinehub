@@ -1,6 +1,6 @@
 package oopsmain;
 
-public class Raghu {
+public class Raghu3456 {
 	
  public int employee() {
  int salary=45000;
