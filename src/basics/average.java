@@ -5,7 +5,7 @@ public class average {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		int e = 65, t = 74, m = 90, so = 75, sci = 65;
+		int e = 95, t = 85, m = 95, so = 75, sci = 90;
 		int sum = e + t + m + so + sci;
 		int average = sum / 5;
 		if (average <= 80) {
